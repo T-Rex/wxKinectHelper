@@ -1,0 +1,2 @@
+set(USE_OPENCV OFF)
+set(USE_PCL OFF)

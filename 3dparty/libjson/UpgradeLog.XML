@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="libjson">
+</Property><Property Name="Solution File" Value="C:\Projects\wxKinectServer\libjson\libjson.sln">
+</Property><Property Name="Date" Value="29 января 2012 г.">
+</Property><Property Name="Time" Value="22:59:59">
+</Property></Properties><Event ErrorLevel="0" Project="libjson" Source="libjson.vcproj" Description="Converting project file 'C:\Projects\wxKinectServer\libjson\libjson.vcproj'.">
+</Event><Event ErrorLevel="1" Project="libjson" Source="libjson.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="libjson" Source="libjson.vcproj" Description="Done converting to new project file 'C:\Projects\wxKinectServer\libjson\libjson.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="libjson" Source="libjson.vcproj" Description="Converted">
+</Event></UpgradeLog>
